@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: #393e46;
+}
+
+.refresh {
+  font-size: 9rem;
+  color: #4ecca3;
+  text-align: center;
+  font-family: "lobster";
+  padding-top: 5%;
+  text-shadow: #393e46;
+}
+
+.game {
+  color: #4ecca3;
+  font-size: 2rem;
+  font-family: "cursive";
+  font-weight: 10;
+  margin-left: 30%;
+  text-align: center !important;
+
+  display: inline-block;
+}
+.gam {
+  color: #4ecca3;
+  font-size: 2rem;
+  font-family: "cursive";
+  font-weight: 10;
+  margin-left: 50px;
+  text-align: center !important;
+
+  display: inline-block;
+}
+
+footer {
+  font-family: "lobster";
+  text-align: center;
+  color: white;
+}
